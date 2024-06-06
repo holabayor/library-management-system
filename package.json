@@ -1,0 +1,26 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "Library Management System",
+  "main": "library.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holabayor/library-management-system.git"
+  },
+  "keywords": [
+    "classes",
+    "javascript",
+    "obejct",
+    "library"
+  ],
+  "author": "Aanuoluwapo Liasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holabayor/library-management-system/issues"
+  },
+  "homepage": "https://github.com/holabayor/library-management-system#readme"
+}
